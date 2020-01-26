@@ -1,3 +1,8 @@
+# ApsUPS
+
+Slightly modified from orginal to publish custom payloads and reduce nuisance messages.  Hard-coded MQTT Broker IP Address.
+
+
 node-apcupsd
 ============
 
